@@ -39,7 +39,7 @@ def analyze():
     # Clear values
     analyzed_tweet = []
     
-    excel_file_path = "C:\\Users\\ASUS\\Downloads\\TweetPulse-main\\TweetPulse-main\\dataset\\tweet_dataset.xlsx"
+    excel_file_path = "./dataset/tweet_dataset.xlsx"
     dataset = load_csv(excel_file_path)
     
     print(dataset)
