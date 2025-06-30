@@ -2,7 +2,6 @@
 A web application that performs sentiment analysis on public tweets from Twitter, but due to the constraints of the Twitter API introduced under Elon Musk's ownership in 2023, it becomes unavailable as the API is now a paid service, no longer free.
 
 <br>
-<br>
 
 *Choose preferred instruction:*
 
@@ -17,6 +16,7 @@ A web application that performs sentiment analysis on public tweets from Twitter
    7. Then, run **_app.py_**.
    8. On Terminal, during runtime, it will provide localhost (e.g. http://127.0.0.5000). Copy and paste that url to Google Chrome.
 
+<br>
 **B. Git clone from git repository**
 1. Create a folder and inside the folder right click and use _Git Bash_ to clone this repository to your folder.
    ```bash
