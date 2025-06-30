@@ -17,6 +17,7 @@ A web application that performs sentiment analysis on public tweets from Twitter
    8. On Terminal, during runtime, it will provide localhost (e.g. http://127.0.0.5000). Copy and paste that url to Google Chrome.
 
 <br>
+
 **B. Git clone from git repository**
 1. Create a folder and inside the folder right click and use _Git Bash_ to clone this repository to your folder.
    ```bash
