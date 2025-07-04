@@ -1,12 +1,6 @@
-<<<<<<< HEAD
 flask==3.1.0
 openpyxl==3.1.5
 pandas==2.2.3
-scipy==1.15.1
-torch==2.5.1
-transformers==4.48.1
-=======
-flask
-transformers
-scipy
->>>>>>> 3964a8519f085169b049ea1ccc65277605208773
+scipy>=1.11.0
+torch>=2.6.0
+transformers>=4.48.1
