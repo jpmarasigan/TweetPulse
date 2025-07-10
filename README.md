@@ -12,7 +12,7 @@ A web application that performs sentiment analysis on public tweets from Twitter
    4. Move the extracted excel file inside the "dataset" folder.
    5. Install packages (type on Terminal).
       ```bash
-      pip install Flask transformers scipy
+      pip install - requirements.txt
    7. Then, run **_app.py_**.
    8. On Terminal, during runtime, it will provide localhost (e.g. http://127.0.0.5000). Copy and paste that url to Google Chrome.
 
@@ -30,6 +30,6 @@ A web application that performs sentiment analysis on public tweets from Twitter
 
 5. Install packages (type on Terminal).
    ```bash
-   pip install Flask transformers scipy*
+   pip install - requirements.txt
 6. Then, run **_app.py_**.
 7. On Terminal, during runtime, it will provide localhost (e.g. http://127.0.0.5000). Copy and paste that url to Google Chrome.
